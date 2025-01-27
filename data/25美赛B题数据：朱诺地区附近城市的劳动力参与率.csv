@@ -1,0 +1,7 @@
+Entity DCID,Entity properties isoCode,Entity properties name,Variable DCID,Variable observation date,Variable observation metadata importName,Variable observation metadata provenanceUrl,Variable observation metadata scalingFactor,Variable observation metadata unit,Variable observation metadata unitDisplayName,Variable observation value,Variable properties name
+geoId/02020,,Anchorage Municipality,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,154683,Population in the Labor Force
+geoId/02090,,Fairbanks North Star Borough,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,46276,Population in the Labor Force
+geoId/02110,,Juneau City and Borough,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,16650,Population in the Labor Force
+geoId/02122,,Kenai Peninsula Borough,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,27325,Population in the Labor Force
+geoId/02130,,Ketchikan Gateway Borough,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,6409,Population in the Labor Force
+geoId/02170,,Matanuska-Susitna Borough,Count_Person_InLaborForce,Nov-24,BLS_LAUS,https://www.bls.gov/lau/,,,,50932,Population in the Labor Force
